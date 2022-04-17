@@ -8,6 +8,8 @@
 
 The main task of this work is to implement a system capable of providing help to those who you want to use the STCP network to move around.
 
+This project was made with [Mariana Lobao](https://github.com/marineve17) and [Andre Lima](https://github.com/limwa).
+
 ## Building
 
 This project uses [cmake](https://cmake.org/). Assuming it's installed and properly setup, simply run `cmake -S . -B build` in this project's directory to generate the build system, then `cmake --build build` to actually build the project.
