@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/gui1612/git/stcp/build",
+  "command": "/bin/c++ -I/home/gui1612/git/stcp/include -g -std=gnu++20 -o CMakeFiles/stcp.dir/main.cpp.o -c /home/gui1612/git/stcp/main.cpp",
+  "file": "/home/gui1612/git/stcp/main.cpp"
+},
+{
+  "directory": "/home/gui1612/git/stcp/build",
+  "command": "/bin/c++ -I/home/gui1612/git/stcp/include -g -std=gnu++20 -o CMakeFiles/stcp.dir/src/graphs/least_bus_changes.cpp.o -c /home/gui1612/git/stcp/src/graphs/least_bus_changes.cpp",
+  "file": "/home/gui1612/git/stcp/src/graphs/least_bus_changes.cpp"
+},
+{
+  "directory": "/home/gui1612/git/stcp/build",
+  "command": "/bin/c++ -I/home/gui1612/git/stcp/include -g -std=gnu++20 -o CMakeFiles/stcp.dir/src/graphs/least_distance.cpp.o -c /home/gui1612/git/stcp/src/graphs/least_distance.cpp",
+  "file": "/home/gui1612/git/stcp/src/graphs/least_distance.cpp"
+},
+{
+  "directory": "/home/gui1612/git/stcp/build",
+  "command": "/bin/c++ -I/home/gui1612/git/stcp/include -g -std=gnu++20 -o CMakeFiles/stcp.dir/src/graphs/least_money_spent.cpp.o -c /home/gui1612/git/stcp/src/graphs/least_money_spent.cpp",
+  "file": "/home/gui1612/git/stcp/src/graphs/least_money_spent.cpp"
+},
+{
+  "directory": "/home/gui1612/git/stcp/build",
+  "command": "/bin/c++ -I/home/gui1612/git/stcp/include -g -std=gnu++20 -o CMakeFiles/stcp.dir/src/graphs/least_stops.cpp.o -c /home/gui1612/git/stcp/src/graphs/least_stops.cpp",
+  "file": "/home/gui1612/git/stcp/src/graphs/least_stops.cpp"
+},
+{
+  "directory": "/home/gui1612/git/stcp/build",
+  "command": "/bin/c++ -I/home/gui1612/git/stcp/include -g -std=gnu++20 -o CMakeFiles/stcp.dir/src/dataset.cpp.o -c /home/gui1612/git/stcp/src/dataset.cpp",
+  "file": "/home/gui1612/git/stcp/src/dataset.cpp"
+},
+{
+  "directory": "/home/gui1612/git/stcp/build",
+  "command": "/bin/c++ -I/home/gui1612/git/stcp/include -g -std=gnu++20 -o CMakeFiles/stcp.dir/src/harversine.cpp.o -c /home/gui1612/git/stcp/src/harversine.cpp",
+  "file": "/home/gui1612/git/stcp/src/harversine.cpp"
+},
+{
+  "directory": "/home/gui1612/git/stcp/build",
+  "command": "/bin/c++ -I/home/gui1612/git/stcp/include -g -std=gnu++20 -o CMakeFiles/stcp.dir/src/interact.cpp.o -c /home/gui1612/git/stcp/src/interact.cpp",
+  "file": "/home/gui1612/git/stcp/src/interact.cpp"
+},
+{
+  "directory": "/home/gui1612/git/stcp/build",
+  "command": "/bin/c++ -I/home/gui1612/git/stcp/include -g -std=gnu++20 -o CMakeFiles/stcp.dir/src/names.cpp.o -c /home/gui1612/git/stcp/src/names.cpp",
+  "file": "/home/gui1612/git/stcp/src/names.cpp"
+},
+{
+  "directory": "/home/gui1612/git/stcp/build",
+  "command": "/bin/c++ -I/home/gui1612/git/stcp/include -g -std=gnu++20 -o CMakeFiles/stcp.dir/src/pathfinding.cpp.o -c /home/gui1612/git/stcp/src/pathfinding.cpp",
+  "file": "/home/gui1612/git/stcp/src/pathfinding.cpp"
+},
+{
+  "directory": "/home/gui1612/git/stcp/build",
+  "command": "/bin/c++ -I/home/gui1612/git/stcp/include -g -std=gnu++20 -o CMakeFiles/stcp.dir/src/ui.cpp.o -c /home/gui1612/git/stcp/src/ui.cpp",
+  "file": "/home/gui1612/git/stcp/src/ui.cpp"
+}
+]

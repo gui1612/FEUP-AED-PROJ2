@@ -1,0 +1,4 @@
+/home/gui1612/git/stcp/build/CMakeFiles/stcp.dir
+/home/gui1612/git/stcp/build/CMakeFiles/Doxygen.dir
+/home/gui1612/git/stcp/build/CMakeFiles/edit_cache.dir
+/home/gui1612/git/stcp/build/CMakeFiles/rebuild_cache.dir
